@@ -1,0 +1,45 @@
+body{
+    background-image: url("tour-eiffel.jpg");
+    background-repeat: space;
+    background-size: 5%;
+}
+div{
+    text-align: center;
+}
+.intro{
+    font-size: 20px;
+    margin-left: 225px;
+    margin-right: 225px;
+}
+img{
+    position: absolute;
+    left: 110px;
+    top: 40px;
+    width: 86%;
+    z-index: -1;
+}
+h2{
+    color: white;
+    font-size: 50px;
+    margin-top: 175px;
+    text-align: center;
+}
+table{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 235px;
+}
+a{
+    color: white;
+    margin-left: 20px;
+    font-size: 25px;
+}
+ul{
+    color: white;
+    margin-top: 30px;
+    font-size: 20px;
+}
+footer{
+    position: fixed;
+    bottom: 10px;
+}
