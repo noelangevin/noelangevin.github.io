@@ -1,0 +1,34 @@
+body{
+    background-image: url("tour-eiffel.jpg");
+    background-repeat: space;
+    background-size: 4%;
+}
+.intro{
+    font-size: 20px;
+    margin-left: 225px;
+    margin-right: 225px;
+}
+h1{
+    text-align: center;
+}
+.lieu{
+    text-align: center;
+    text-decoration: underline;
+    font-size: 30px;
+}
+div{
+    text-align: center;
+}
+img{
+    width: 25%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.description{
+    border: 2px black solid;
+    font-size: 25px;
+    background-color: lightgray;
+}
+.fin{
+    font-size: 25px;
+}
